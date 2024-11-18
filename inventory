@@ -1,0 +1,5 @@
+192.168.101.91  kamola-ansible-02  ans02
+192.168.101.92  kamola-ansible-03  ans03
+192.168.101.96  kyuldasheva-web-01 ans04
+192.168.101.97  kyuldasheva-db-01  ans05
+192.168.101.105 ky-dns-ans         ans06
